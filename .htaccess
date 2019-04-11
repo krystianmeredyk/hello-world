@@ -1,0 +1,12 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule krystian-meredyk index.html
+RewriteRule o-mnie kimjestem.html
+RewriteRule moja-oferta oferta.html
+RewriteRule cv-technik-informatyk cv.html
+RewriteRule kontakt=informatyk kontakt.html

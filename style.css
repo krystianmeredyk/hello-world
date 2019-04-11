@@ -1,0 +1,150 @@
+body {
+	background-color: #303030;
+	font-family: 'Pattaya', sans-serif;
+	color:#ffffff;
+}
+
+#container {
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto; 
+}
+.rectangle {
+		width: 960px;
+		text-align: center;
+		
+}
+#logo {
+	float: left;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 70px;
+	width:600px;
+	text-align: left;
+	
+}
+#zegar {
+	float: left;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size:70px;
+	text-align: left;
+}
+.square{
+		float: left;
+		width: 50%;
+		
+}
+.tile1 {
+		float: left;
+		margin: 10px;
+		width: 230px;
+		height: 142px;
+		background-color: #3095d3;
+		text-align: center;
+}
+.tile1:hover{
+	background-color: #2084c2;
+}
+.tile2{
+		float: left;
+		margin: 10px;
+		width: 230px;
+		height: 142px;
+		background-color: #666666;
+		text-align: center;
+		
+}
+.tile2:hover{
+	background-color: #555555;
+}
+.tile3{
+		float: left;
+		margin: 10px;
+		width: 230px;
+		height: 142px;
+		background-color: #93c708;
+		text-align: center;
+}
+.tile3:hover{
+	background-color: #82b607;
+}
+.tile4{
+		
+		margin: 10px;
+		width: 450px;
+		height: 112px;
+		background-color: #ee5a32;
+		text-align: center;
+		padding: 15px;
+		font-size: 26px;
+		line-height: 150%;
+}
+
+.tile5{
+		
+		margin: 10px;
+		width: 420px;
+		height: 244px;
+		background-color: #666666;
+		text-align: justify;
+		padding: 30px;
+		font-size: 20px;
+}
+.yt{
+		float: left;
+		margin: 10px;
+		width: 105px;
+		height: 142px;
+		background-color: #d94348;
+}
+.yt:hover{
+	background-color: #c83237;
+}
+.chat{
+		float: left;
+		margin: 10px;
+		width: 105px;
+		height: 142px;
+		background-color: #d95333;
+}
+.chat:hover{
+	background-color: #c84222;
+}
+.github{
+		float: left;
+		margin: 10px;
+		width: 105px;
+		height: 142px;
+		background-color: #666666;
+}
+.github:hover{
+	background-color: #555555;
+}
+.fb{
+		float: left;
+		margin: 10px;
+		width: 105px;
+		height: 142px;
+		background-color: #4668b3;
+}
+.fb:hover{
+	background-color: #3557a2;
+}
+	
+.tilelink{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 230px;
+	height: 142px;
+}
+.sociallink{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 105px;
+	height: 142px;
+}
+a.tilelinkhtml5{
+	color: #ffffff;
+	text-decoration: none;
+}
